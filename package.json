@@ -40,6 +40,12 @@
     "allocation",
     "rounding"
   ],
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/zugobite/monetra.core.git"
@@ -48,11 +54,7 @@
     "url": "https://github.com/zugobite/monetra.core/issues"
   },
   "homepage": "https://github.com/zugobite/monetra.core#readme",
-  "files": [
-    "dist",
-    "README.md",
-    "LICENSE"
-  ],
+
   "author": "Zascia Hugo",
   "license": "MIT",
   "devDependencies": {
